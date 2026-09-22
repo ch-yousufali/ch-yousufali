@@ -13,7 +13,7 @@ Computational Physics × AI-Software-Eng.
 
 ## Stack I work and learning
 
-`Python` `TypeScript` `React` `Next.js` `PyTorch` `FastAPI` `Flask` `PostgreSQL` `MongoDB` `Docker` `Blender` `Cloudflare`
+`Python` `TypeScript` `React` `Next.js` `PyTorch` `FastAPI` `Flask` `PostgreSQL` `MongoDB` `Docker` `Blender` `Cloudflare` `C++` `JavaScript`
 
 ---
 
