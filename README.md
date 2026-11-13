@@ -8,9 +8,9 @@ I builds things: 3D art, games, and marketplaces. Started Rendering, a 3D art an
 
 ## Projects
 
-- **[Rendering Arcade](https://github.com/ch-yousufali/Rendering-Aracde)**: browser games platform with 200+ Unity WebGL games
+- **[Rendering Arcade](https://renderingarcade.games/)**: browser games platform with 200+ Unity WebGL games
 - **Rendering**: 3D art and game studio
-- **[i❤️Assignments](https://github.com/ch-yousufali/iLoveAssignments)**: turns typed text into handwritten-style A4 PDFs ([live](https://iloveassignments.com))
+- **i❤️Assignments**: turns typed text into handwritten-style A4 PDFs ([live](https://iloveassignments.com))
 - **Polymart**: marketplace for 3D game assets, in development
 
 [LinkedIn](https://linkedin.com/in/ch-yousufali) · [Email](mailto:b62125458@gmail.com) · [Instagram](https://instagram.com/yousufali.dev)
